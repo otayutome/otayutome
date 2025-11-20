@@ -4,7 +4,7 @@
 </div>
 
 
- <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">&nbsp;Hi, This is Benjamin-cup.&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+ <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">&nbsp;Hi, This is Otayutome.&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
@@ -20,9 +20,9 @@
   <!-- <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> Explore My Work: <a href="https://portfolio-007-rosy.vercel.app/" target="_blank"><strong>Portfolio</strong></a>
   </li> -->
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="benjamin.bigdev@gmail.com"><strong>Benjamin's gmail</strong></a>
-  </li>
+  <!-- <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="benjamin.bigdev@gmail.com"><strong>otayutome's gmail</strong></a>
+  </li> -->
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Rocket Emoji" width="25px" align="center" /> Currently building <strong>Blockchain smart contracts and web3 applications</strong>
   </li>
@@ -52,7 +52,7 @@ I even also duplicated the pumpfun's working method as new replica contract
 
 I also worked with smart contract and web3 projects like p2e games Pump.fun forking SC, Presale SC, DCA SC, SOL locker SC, Pnft staking SC, Telegram mini app and so on... If you need help from Solana projects, please look for me since I am specialized in these kind of projects.
 
-You can contact me through telegram [@SOLBenjaminCup](https://t.me/SOLBenjaminCup) or [ErikSOL](https://t.me/erikerik116) There, we can discuss on more comfortable contact way with you.
+You can contact me through telegram [tusunami](https://t.me/@moonleader018) There, we can discuss on more comfortable contact way with you.
 
 <br/>  
 
