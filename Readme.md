@@ -65,12 +65,12 @@ You can contact me through telegram [tusunami](https://t.me/@moonleader018) Ther
 
 
 <p align="center">
-  <a href="mailto:benjamin.bigdev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  <!-- <a href="mailto:benjamin.bigdev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  &nbsp;&nbsp; -->
+  <a href="https://t.me/@moonleader018" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/@SOLBenjaminCup" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://discordapp.com/users/1305610537790476382" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
-  &nbsp;&nbsp;
+  <!-- <a href="https://discordapp.com/users/1305610537790476382" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
+  &nbsp;&nbsp; -->
 </p>
 
 <div align="center">
